@@ -1,0 +1,52 @@
+#root { -fx-background-color: lightskyblue; }
+
+#top { -fx-background-color: khaki; }
+
+#filled
+{
+    -fx-background-color: red;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+#empty { -fx-background-color: khaki; }
+
+#topBtn
+{
+    -fx-background-color: yellow;
+    -fx-border-color: red;
+}
+
+#submit
+{
+    -fx-background-color: brown;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#correct { -fx-text-fill: yellow; }
+
+#incorrect { -fx-text-fill: red; }
+
+#incomplete { -fx-text-fill: red; }
+
+#timeScore
+{
+    -fx-padding: 0 0 0 10;
+    -fx-background-color: yellow;
+}
+
+#bold
+{
+    -fx-font-weight: bold;
+}
+
+#selected
+{
+    -fx-background-color: yellow;
+}
+
+#no
+{
+	-fx-background-color: lawngreen;
+}
