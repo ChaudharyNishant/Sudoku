@@ -1,3 +1,6 @@
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
+
 package sample;
 
 import javafx.animation.Animation;
@@ -436,3 +439,6 @@ public class Main extends Application
         launch(args);
     }
 }
+
+//Created by Nishant Chaudhary
+//https://github.com/ChaudharyNishant
