@@ -8,6 +8,6 @@ There is score too which calculates the score based on the time taken.
 
 You can play a new game or quit at any time.
 
-[Check out the gameplay here](https://drive.google.com/open?id=1b2tiwYm6-AAota5LpMbEni8cqPZusrl8)
+[Check out the gameplay here](https://youtu.be/3g4llOB4w0Q)
 
 My best score is 100. Work hard to beat it... Nahh. Try to figure out the way score works. I know beating the score of 100 is easy.
