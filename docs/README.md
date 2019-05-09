@@ -7,5 +7,5 @@ There is score too which calculates the score based on the time taken.
 <br><br>My best score is 100. Work hard to beat it... Nahh. Try to figure out the way score works. I know beating the score of 100 is easy.
 <i><br><br><h6>Thanks in advance for any kind of contribution. All the code in this repository is free and open to copy and/or change UNTIL AND UNLESS proper credits are given. The first 2 lines of the major files are restricted to be changed in respect for credits and should remain intact if the file is used. If any part of any file is used then credits should be properly given in the respective file which should include the following information:
 <br>Created by Nishant Chaudhary
-<br>https://github.com/ChaudharyNishant</i></h6>
+<br>https://github.com/ChaudharyNishant</h6></i>
 </body>
